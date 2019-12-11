@@ -1,6 +1,6 @@
 # profilegenerator
 # live site here: https://marksirany.github.io/profilegenerator/
-
+![userinput pic](./screen.png)
 
 # What I was able to do:
 1. make an axios request
