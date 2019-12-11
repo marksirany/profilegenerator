@@ -1,4 +1,6 @@
 # profilegenerator
+# My js file is in the assets folder
+
 # live site here: https://marksirany.github.io/profilegenerator/
 ![userinput pic](./screen.png)
 
